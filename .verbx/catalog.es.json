@@ -1,0 +1,374 @@
+{
+  "ANAI + WEBMCP": {
+    "status": "machine",
+    "translation": "El MIC + WEBMCP"
+  },
+  "ANAI acts automatically when an action is low-risk and reversible. Consequential changes require your confirmation.": {
+    "status": "machine",
+    "translation": "ANAI actúa automáticamente cuando una acción es de bajo riesgo y reversible. Los cambios que se producen requieren su confirmación."
+  },
+  "ANAI invokes the registered tools through the real WebMCP API.": {
+    "status": "machine",
+    "translation": "ANAI invoca las herramientas registradas a través de la API WebMCP real."
+  },
+  "ANAI is an operating layer for WebMCP-enabled web applications.": {
+    "status": "machine",
+    "translation": "ANAI es una capa operativa para las aplicaciones web WebMCP."
+  },
+  "ANAI is ready": {
+    "status": "machine",
+    "translation": "ANA está listo"
+  },
+  "ANAI plan": {
+    "status": "machine",
+    "translation": "Plan de ANA"
+  },
+  "ANAI turns an outcome into an operational plan. You do not choose services or tools.": {
+    "status": "machine",
+    "translation": "El ANAI convierte un resultado en un plan operativo. No se optan por los servicios o herramientas."
+  },
+  "ANAI understands": {
+    "status": "machine",
+    "translation": "Ana entiende"
+  },
+  "ANAI will not modify this workspace.": {
+    "status": "machine",
+    "translation": "ANAI no modificará este espacio de trabajo."
+  },
+  "Acme AI Lab": {
+    "status": "machine",
+    "translation": "El laboratorio de la ACME"
+  },
+  "Actual application state changes because the tools ran": {
+    "status": "machine",
+    "translation": "El estado actual de la aplicación cambia porque las herramientas funcionan"
+  },
+  "Agent active": {
+    "status": "machine",
+    "translation": "Agente activo"
+  },
+  "Agent activity": {
+    "status": "machine",
+    "translation": "Actividad agente"
+  },
+  "Agent and human actions": {
+    "status": "machine",
+    "translation": "Agente y acciones humanas"
+  },
+  "Atlas Assistant · Signal Index": {
+    "status": "machine",
+    "translation": "Atlas Assistant - Indice de señal"
+  },
+  "Autonomy policy": {
+    "status": "machine",
+    "translation": "Política de autonomía"
+  },
+  "CONFIRMATION REQUIRED": {
+    "status": "machine",
+    "translation": "Confirmado requerido"
+  },
+  "CURRENT ACTION": {
+    "status": "machine",
+    "translation": "Acción actual"
+  },
+  "Compare options": {
+    "status": "machine",
+    "translation": "Comparaciones de opciones"
+  },
+  "Configuration validated. No blocking issues detected.": {
+    "status": "machine",
+    "translation": "Configuración validada. No se detectaron problemas de bloqueo."
+  },
+  "Configure development": {
+    "status": "machine",
+    "translation": "Configuración de desarrollo"
+  },
+  "Confirm deployment": {
+    "status": "machine",
+    "translation": "Confirmando el desplegamiento"
+  },
+  "Consequential actions stay behind the confirmation boundary.": {
+    "status": "machine",
+    "translation": "Las acciones consecutivas se mantienen detrás del límite de confirmación."
+  },
+  "Create development": {
+    "status": "machine",
+    "translation": "Crear el desarrollo"
+  },
+  "Create development project": {
+    "status": "machine",
+    "translation": "Creación de proyectos de desarrollo"
+  },
+  "Deploy simulation": {
+    "status": "machine",
+    "translation": "Simulación de despliegue"
+  },
+  "Deployment is never automatic": {
+    "status": "machine",
+    "translation": "El proceso nunca es automático"
+  },
+  "Describe what you need": {
+    "status": "machine",
+    "translation": "Describe lo que necesitas"
+  },
+  "Development": {
+    "status": "machine",
+    "translation": "Desarrollo"
+  },
+  "Development repositories, operable by agents": {
+    "status": "machine",
+    "translation": "Repositorios de desarrollo, operables por agentes"
+  },
+  "ESTIMATED COST": {
+    "status": "machine",
+    "translation": "Costo estimado"
+  },
+  "Estimate cost": {
+    "status": "machine",
+    "translation": "Costo estimado"
+  },
+  "Estimated spend": {
+    "status": "machine",
+    "translation": "El gasto estimado"
+  },
+  "Every entry comes from a real state change": {
+    "status": "machine",
+    "translation": "Cada entrada proviene de un cambio real de estado"
+  },
+  "Filter services": {
+    "status": "machine",
+    "translation": "Servicios de filtros"
+  },
+  "Forge publishes its capabilities to the browser as WebMCP tools. ANAI discovers those tools and operates the real application: automatically for safe, reversible work, and only up to the point where a human decision is required.": {
+    "status": "machine",
+    "translation": "Forge publica sus capacidades al navegador como herramientas WebMCP. ANAI descubre estas herramientas y opera la aplicación real: automáticamente para un trabajo seguro y reversible, y sólo hasta el punto en que se requiere una decisión humana."
+  },
+  "Fri": {
+    "status": "machine",
+    "translation": "Libre"
+  },
+  "Golden demo": {
+    "status": "machine",
+    "translation": "El demo de oro"
+  },
+  "Guided autonomy": {
+    "status": "machine",
+    "translation": "Autonomía guiada"
+  },
+  "HUMAN APPROVAL": {
+    "status": "machine",
+    "translation": "Aprueba humana"
+  },
+  "Healthy": {
+    "status": "machine",
+    "translation": "saludable"
+  },
+  "How it works": {
+    "status": "machine",
+    "translation": "Cómo funciona"
+  },
+  "How this differs from an agent guessing at a UI": {
+    "status": "machine",
+    "translation": "¿Cómo esto se diferencia de un agente que se advirtió en un UI"
+  },
+  "LIVE · production unchanged": {
+    "status": "machine",
+    "translation": "Producción: Producción sin cambios"
+  },
+  "Model requests, last 7 days.": {
+    "status": "machine",
+    "translation": "Solicitudes de modelo, últimos 7 días."
+  },
+  "Mon": {
+    "status": "machine",
+    "translation": "Mon"
+  },
+  "Monthly cost": {
+    "status": "machine",
+    "translation": "Costo mensual"
+  },
+  "Monthly spend": {
+    "status": "machine",
+    "translation": "Gastos mensuales"
+  },
+  "No issues detected.": {
+    "status": "machine",
+    "translation": "No se detectaron problemas."
+  },
+  "No repositories yet. An agent can create one through the": {
+    "status": "machine",
+    "translation": "No hay repositorios todavía. Un agente puede crear uno a través de"
+  },
+  "Not configured yet.": {
+    "status": "machine",
+    "translation": "No se configuran todavía."
+  },
+  "Not validated yet.": {
+    "status": "machine",
+    "translation": "No se ha validado aún."
+  },
+  "Nothing has happened yet.": {
+    "status": "machine",
+    "translation": "No ha pasado nada hasta ahora."
+  },
+  "Paused. ANAI will not deploy until you confirm.": {
+    "status": "machine",
+    "translation": "y descanso. ANAI no se desplegará hasta que usted confirme."
+  },
+  "Product-level policy, not a security boundary.": {
+    "status": "machine",
+    "translation": "Política de nivel de producto, no un límite de seguridad."
+  },
+  "Production changes": {
+    "status": "machine",
+    "translation": "Cambios de producción"
+  },
+  "Production services": {
+    "status": "machine",
+    "translation": "Servicios de producción"
+  },
+  "Production stays unchanged. ANAI needs your confirmation before deployment.": {
+    "status": "machine",
+    "translation": "La producción sigue sin cambios. ANAI necesita su confirmación antes de la implantación."
+  },
+  "Projects": {
+    "status": "machine",
+    "translation": "Proyectos"
+  },
+  "Real WebMCP invocations from this page": {
+    "status": "machine",
+    "translation": "Real WebMCP invocaciones de esta página"
+  },
+  "Recent activity": {
+    "status": "machine",
+    "translation": "Actualidad Actividad"
+  },
+  "Recent deployments": {
+    "status": "machine",
+    "translation": "Recentes depósitos"
+  },
+  "Recommended stack": {
+    "status": "machine",
+    "translation": "Recomendado Stack"
+  },
+  "Repo": {
+    "status": "machine",
+    "translation": "Repo"
+  },
+  "Repo manages development repositories only. It has no production environment and no deployment capability.": {
+    "status": "machine",
+    "translation": "Repo solo gestiona los repositorios de desarrollo. No tiene medio de producción ni capacidad de implementación."
+  },
+  "Repositories": {
+    "status": "machine",
+    "translation": "Repositorios"
+  },
+  "Repository details": {
+    "status": "machine",
+    "translation": "Detalles de repositorio"
+  },
+  "Repository details appear here once a repository exists.": {
+    "status": "machine",
+    "translation": "Los detalles del repositorio aparecen aquí una vez que existe un repositorio."
+  },
+  "Sat": {
+    "status": "machine",
+    "translation": "SATA"
+  },
+  "Search": {
+    "status": "machine",
+    "translation": "Buscar"
+  },
+  "Search services": {
+    "status": "machine",
+    "translation": "Servicios de búsqueda"
+  },
+  "Separate development environment": {
+    "status": "machine",
+    "translation": "Encuentro de desarrollo separado"
+  },
+  "Service": {
+    "status": "machine",
+    "translation": "Servicio"
+  },
+  "Services": {
+    "status": "machine",
+    "translation": "Servicios"
+  },
+  "Status": {
+    "status": "machine",
+    "translation": "Estatuto"
+  },
+  "Step failed": {
+    "status": "machine",
+    "translation": "El paso fallado"
+  },
+  "TRADITIONAL AI CHAT": {
+    "status": "machine",
+    "translation": "Tradicional en el chat"
+  },
+  "This page registers its capabilities as WebMCP tools.": {
+    "status": "machine",
+    "translation": "Esta página registra sus capacidades como herramientas WebMCP."
+  },
+  "Thu": {
+    "status": "machine",
+    "translation": "Tu"
+  },
+  "Today": {
+    "status": "machine",
+    "translation": "Hoy en día"
+  },
+  "Tool results flow back into the plan as evidence.": {
+    "status": "machine",
+    "translation": "Los resultados de la herramienta vuelven al plan como prueba."
+  },
+  "Tue": {
+    "status": "machine",
+    "translation": "Tue"
+  },
+  "Unchanged": {
+    "status": "machine",
+    "translation": "Inmutable"
+  },
+  "Understand · Discover · Compare · Estimate · Prepare · Validate": {
+    "status": "machine",
+    "translation": "Comprender · Descubrir · Compare · Estimar · Prepare · Validar"
+  },
+  "Up 14.8%": {
+    "status": "machine",
+    "translation": "Aumento del 14,8%"
+  },
+  "Usage": {
+    "status": "machine",
+    "translation": "Uso"
+  },
+  "Usage pulse": {
+    "status": "machine",
+    "translation": "El uso de pulso"
+  },
+  "Wed": {
+    "status": "machine",
+    "translation": "Encuentro"
+  },
+  "What ANAI may do without asking": {
+    "status": "machine",
+    "translation": "Lo que puede hacer Ana sin preguntar"
+  },
+  "What do you need?": {
+    "status": "machine",
+    "translation": "¿Qué necesitas?"
+  },
+  "Why WebMCP?": {
+    "status": "machine",
+    "translation": "¿Por qué WebMCP?"
+  },
+  "Why this action?": {
+    "status": "machine",
+    "translation": "¿Por qué esta acción?"
+  },
+  "index": {
+    "status": "machine",
+    "translation": "Indicadores"
+  }
+}
